@@ -24,6 +24,13 @@ public class FileWritingExampleOne {
 }
 
 /*
+    void write(int)
+    void write(byte[])
+    void write(byte[],int,int)
+    void close()
+
+
+
     if you want to append the data in an existing file
 
     FileOutputStream ob=new FileOutputStream(filename,true);    //append
